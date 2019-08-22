@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/BerndKlimmek/BK%20DeployEval%202/_apis/build/status/BerndKlimmek.pipelines-java?branchName=master)](https://dev.azure.com/BerndKlimmek/BK%20DeployEval%202/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
